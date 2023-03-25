@@ -1,6 +1,8 @@
 <a href="https://github.com/ssyjgs1"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23858585&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visited&edge_flat=false)"/></a>
 <a href='https://www.linkedin.com/in/lee-seungyoon/' target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://mail.google.com/" target='_blank'><img src="https://img.shields.io/badge/ssyjgs1@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:ssyjgs1@outlook.com" target='_blank'><img src="https://img.shields.io/badge/ssyjgs1@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<!-- https://mail.google.com/ -->
 
 
 
