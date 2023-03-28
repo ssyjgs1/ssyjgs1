@@ -24,9 +24,3 @@
 
 <div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ssyjgs1&show_icons=true"></img>
- 
-  <div align="left">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssyjgs1&layout=compact"></img>
-     <div align="left" marginright="25px" >
-     </div>
-  </div>  
