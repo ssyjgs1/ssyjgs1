@@ -20,7 +20,3 @@
 | Programming | Framework | Tools |
 | :---------- | :-------- | :---- | 
 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">    | <img src="https://img.shields.io/badge/PyTorch-FF6F00?style=flat-square&logo=PyTorch&logoColor=white">  <img src="https://img.shields.io/badge/YOLO-D00000?style=flat-square&logo=YOLO&logoColor=white">  | <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">  <img src="https://img.shields.io/badge/MS Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white">     |
-
-
-<div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ssyjgs1&show_icons=true"></img>
