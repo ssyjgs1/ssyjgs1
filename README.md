@@ -5,7 +5,7 @@
 
 
 ## Welcome to My Space :rocket:
-- 👋 Hello, I’m Seungyoon Lee, a developer from Republic of Korea(South Korea)
+- 👋 Hello, I’m Seungyoon Lee, a person from Republic of Korea(South Korea)
 
 ### Who Am I 
 - 👀 I’m interested in AI/ML based on Computer Vision.
